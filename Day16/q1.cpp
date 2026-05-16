@@ -1,4 +1,4 @@
-//Write a C++ program to implement a Binary Tree using classes and display all nodes using recursion.
+//Write a C++ program to implement a Binary Tree using classes and display all nodes using recursion
 
 #include<iostream>
 using namespace std;
